@@ -3,9 +3,9 @@ The famous Julia Set, coded in P5JS
 
 ## Three versions
 
-- The Folder JuliaSet contains an array of fixed values for the Julia Set which I consider beautiful. Click the displayed Julia Set to display the next one!
-- The Folder JuliaSetMouse contains a version, that lets you move your mouse around, calculating new Julia Sets, based on the X and Y values of your mouse!
-- The Folder JuliaSetSliders contains a third version of the Julia set, combining both above projects: You have a slider for the X-Axis and a slider for the Y-Axis, and a "Calculate"-Button. If your PC is too slow to run the interactive JuliaSetMouse-Version, but you still want to input your own values, use JuliaSetSliders!
+- The Folder "JuliaSet" contains an array of fixed values for the Julia Set which I consider beautiful. Click the displayed Julia Set to display the next one!
+- The Folder "JuliaSetMouse" contains a version, that lets you move your mouse around, calculating new Julia Sets, based on the X and Y values of your mouse!
+- The Folder "JuliaSetSliders" contains a third version of the Julia set, combining both above projects: You have a slider for the X-Axis and a slider for the Y-Axis, and a "Calculate"-Button. If your PC is too slow to run the interactive JuliaSetMouse-Version, but you still want to input your own values, use "JuliaSetSliders"!
 
 ![Julia Set](https://raw.githubusercontent.com/johnnyawesome/JuliaSet/main/JuliaSet/DemoImages/JuliaSet.jpg)
 
