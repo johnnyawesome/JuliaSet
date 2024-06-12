@@ -1,5 +1,5 @@
 # JuliaSet
-The famous Julia Set, coded in P5JS
+The famous [Julia Set](https://en.wikipedia.org/wiki/Julia_set), coded in [P5JS](https://p5js.org/)
 
 ## Three versions
 
